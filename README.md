@@ -11,7 +11,7 @@ In my first try I was using the CSV (cities.csv) from WeatherPy into VacationPy,
 
 With my new Dataframe (weather_df), I was able to run and complete the code and the new HeatMap with an added layer of Hotel Locations
 
-! [header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.49.20%20AM.png)
+! [image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.49.20%20AM.png)
 
 ! [header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.53.48%20AM.png)
 

@@ -11,12 +11,12 @@ In my first try I was using the CSV (cities.csv) from WeatherPy into VacationPy,
 
 With my new Dataframe (weather_df), I was able to run and complete the code and the new HeatMap with an added layer of Hotel Locations
 
-! [image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.49.20%20AM.png)
+![header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.49.20%20AM.png)
 
-! [header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.53.48%20AM.png)
+![header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2011.53.48%20AM.png)
 
 ## Returned Hotel List
-! [header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2012.07.47%20PM.png)
+![header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2012.07.47%20PM.png)
 
 ## Newly Created HeatMap with Hotel Markers
-! [header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2012.15.04%20PM.png)
+![header image](https://raw.githubusercontent.com/MAPatxot/python-api-challenge/master/python_api_challenge_screenshots/Screen%20Shot%202020-01-13%20at%2012.15.04%20PM.png)
